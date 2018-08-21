@@ -2,7 +2,7 @@
   "name": "todo-app-backend",
   "version": "1.0.0",
   "description": "React class from Udemy",
-  "main": "src/loades.js",
+  "main": "src/loader.js",
   "scripts": {
     "dev": "nodemon",
     "production": "pm2 start src/loader.js --name todo-app"
